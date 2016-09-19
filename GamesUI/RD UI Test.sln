@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{62E4716B-F441-9BD0-9E53-3F683861FDB8}") = "RD UI Test", "Assembly-CSharp.csproj", "{92D1D45A-8270-90DA-501D-B981738E8746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D1D45A-8270-90DA-501D-B981738E8746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D1D45A-8270-90DA-501D-B981738E8746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D1D45A-8270-90DA-501D-B981738E8746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D1D45A-8270-90DA-501D-B981738E8746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

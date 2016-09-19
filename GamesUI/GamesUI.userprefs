@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RollingDice\Scripts\UI\MainMenuButton.cs">
+    <Files>
+      <File FileName="Assets\RollingDice\Scripts\UI\UIBUtton.cs" Line="10" Column="2" />
+      <File FileName="Assets\RollingDice\Scripts\UI\TabButton.cs" Line="5" Column="24" />
+      <File FileName="Assets\RollingDice\Scripts\UI\MainMenuButton.cs" Line="62" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
